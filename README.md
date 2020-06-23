@@ -1,2 +1,0 @@
-# AIDA-
-AIDA Schiffspositionen
